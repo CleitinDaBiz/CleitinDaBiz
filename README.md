@@ -1,7 +1,7 @@
 # Sobre mim
-- 👋 Ola eu sou o Cleitin Da Biz
+- 👋 Ola eu sou **Victor Hugo**
 - 👀 I’m interested in aprender a programar novas linguagens 
-- 👍 Meu email de contato é victor.cardoso.costa@escola.pr.gov.br
+- 👍 Meu email de contato é [email](victor.cardoso.costa@escola.pr.gov.br)
 - 🌱 I’m currently learning a programar recentemente a linguagem  JavaScript e Scratch
 
 <!---
